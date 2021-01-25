@@ -1,6 +1,12 @@
 {
   "categories": [
     {
+      "slug": "startup",
+      "name": "Startups",
+      "description": "Startup française",
+      "icon": " 💰"
+    },
+    {
       "slug": "open-source",
       "name": "Open Source",
       "description": "best free open source tools for your next projects",
@@ -71,12 +77,6 @@
       "name": "Learning",
       "description": "best learning tools",
       "icon": "🎓"
-    },
-    {
-      "slug": "startup",
-      "name": "Startups",
-      "description": "Startup française",
-      "icon": " 💰"
     }
   ]
 }
