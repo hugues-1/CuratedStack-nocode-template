@@ -71,6 +71,12 @@
       "name": "Learning",
       "description": "best learning tools",
       "icon": "🎓"
+    },
+    {
+      "slug": "startup",
+      "name": "Startups",
+      "description": "Startup française",
+      "icon": " 💰"
     }
   ]
 }
